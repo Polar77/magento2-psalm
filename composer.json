@@ -1,5 +1,5 @@
 {
-    "name": "polar/magento2-psalm",
+    "name": "polar77/magento2-psalm",
     "description": "Psalm plugin for Magento 2",
     "type": "psalm-plugin",
     "license": "MIT",
